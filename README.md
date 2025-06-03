@@ -46,6 +46,7 @@ Ejecuta el test `shortenTest.js`, redirige la salida y guarda logs crudos:
 make load-create
 ```
 
+<img width="1151" alt="image" src="https://github.com/user-attachments/assets/e1a24294-ff51-483f-ad93-c672d5df1da4" />
 
 ---
 
