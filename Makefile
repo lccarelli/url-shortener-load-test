@@ -7,16 +7,9 @@ load-create:
 	$(COMPOSE) run --rm --entrypoint "" \
 		-v $(SCRIPT_DIR):/scripts \
 		-v $(RESULTS_DIR):/results \
-		k6 k6 run /scripts/shortenTest.js 2>&1 | tee $(RESULTS_DIR)/short-keys.txt
-
-clean-keys:
-	grep 'msg=' results/short-keys.txt | sed -E 's/.*msg=([a-z0-9]+).*/\1/' | sort | uniq > results/valid-keys.txt
-
-load-lookup:
-	-$(COMPOSE) run --rm --entrypoint "" \
-		-v $(SCRIPT_DIR):/scripts \
-		-v $(RESULTS_DIR):/results \
-		k6 k6 run /scripts/lookupTest.js || true
-
-
+		-e VUS=$(VUS) \
+		-e ITERATIONS=$(ITERATIONS) \
+		-e HOST=$(HOST) \
+		k6 k6 run --out experimental-prometheus-rw=http://otel-collector:9464/metrics /scripts/shortenTest.js \
+		2>&1 | tee $(RESULTS_DIR)/short-keys-$(TIMESTAMP).txt
 

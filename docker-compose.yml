@@ -1,8 +1,37 @@
 services:
   k6:
     image: grafana/k6:latest
-    entrypoint: [""]
-    working_dir: /k6-scripts
+    container_name: k6
+    working_dir: /scripts
+    command: ["run", "shortenTest.js"]
     volumes:
       - ./k6-scripts:/scripts
       - ./results:/results
+    networks:
+      - internal
+
+  otel-collector:
+    image: otel/opentelemetry-collector:latest
+    container_name: otel-collector
+    command: ["--config=/etc/otel-collector-config.yml"]
+    volumes:
+      - ./otel-config.yml:/etc/otel-collector-config.yml
+    ports:
+      - "9464:9464"  # para scrapeo por Prometheus
+      - "4317:4317"  # para entrada OTLP
+    networks:
+      - internal
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    ports:
+      - "9090:9090"
+    networks:
+      - internal
+
+networks:
+  internal:
+    external: true

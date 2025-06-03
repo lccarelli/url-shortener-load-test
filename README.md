@@ -42,8 +42,10 @@ RESULTS_DIR=./results
 
 ### `load-create`
 Ejecuta el test `shortenTest.js`, redirige la salida y guarda logs crudos:
+VU=usuarios
+ITERATIONS=iteraciones
 ```bash
-make load-create
+make load-create VUS=500 ITERATIONS=5000 HOST=http://shortener1:8080
 ```
 
 <img width="1151" alt="image" src="https://github.com/user-attachments/assets/e1a24294-ff51-483f-ad93-c672d5df1da4" />

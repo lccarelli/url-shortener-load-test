@@ -5,7 +5,6 @@
   /          \   |   (  |  (‾)  |
  / __________ \  |_|\_\  \_____/ 
 
-time="2025-06-02T02:29:21Z" level=warning msg="There were unknown fields in the options exported in the script" error="json: unknown field \"http\""
      execution: local
         script: /scripts/shortenTest.js
         output: -
@@ -13,542 +12,547 @@ time="2025-06-02T02:29:21Z" level=warning msg="There were unknown fields in the 
      scenarios: (100.00%) 1 scenario, 100 max VUs, 10m30s max duration (incl. graceful stop):
               * default: 500 iterations shared among 100 VUs (maxDuration: 10m0s, gracefulStop: 30s)
 
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
-time="2025-06-02T02:29:21Z" level=warning msg="Request Failed" error="Post \"http://localhost:8080/shorten\": dial tcp 127.0.0.1:8080: connect: connection refused"
+time="2025-06-02T23:49:52Z" level=warning msg="There were unknown fields in the options exported in the script" error="json: unknown field \"http\""
+time="2025-06-02T23:49:53Z" level=info msg=8s2nwd source=console
+time="2025-06-02T23:49:53Z" level=info msg=1eusono source=console
+time="2025-06-02T23:49:53Z" level=info msg=s2pweo source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ej0idt source=console
+time="2025-06-02T23:49:53Z" level=info msg=1v8cbbo source=console
+time="2025-06-02T23:49:53Z" level=info msg=1j2f3qi source=console
+time="2025-06-02T23:49:53Z" level=info msg=1wstvx source=console
+time="2025-06-02T23:49:53Z" level=info msg=de3vjd source=console
+time="2025-06-02T23:49:53Z" level=info msg=jh3qtu source=console
+time="2025-06-02T23:49:53Z" level=info msg=1laiwoh source=console
+time="2025-06-02T23:49:53Z" level=info msg=181dgu source=console
+time="2025-06-02T23:49:53Z" level=info msg=1onr5i7 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1cv6j0t source=console
+time="2025-06-02T23:49:53Z" level=info msg=1qwwlvb source=console
+time="2025-06-02T23:49:53Z" level=info msg=12ohxa9 source=console
+time="2025-06-02T23:49:53Z" level=info msg=2mmc9r source=console
+
+running (00m00.4s), 100/100 VUs, 16 complete and 0 interrupted iterations
+default   [   3% ] 100 VUs  00m00.4s/10m0s  016/500 shared iters
+time="2025-06-02T23:49:53Z" level=info msg=dafurx source=console
+time="2025-06-02T23:49:53Z" level=info msg=i1vyk6 source=console
+time="2025-06-02T23:49:53Z" level=info msg=y266bu source=console
+time="2025-06-02T23:49:53Z" level=info msg=1dx964i source=console
+time="2025-06-02T23:49:53Z" level=info msg=r6e20q source=console
+time="2025-06-02T23:49:53Z" level=info msg=m5qr0x source=console
+time="2025-06-02T23:49:53Z" level=info msg=1dig9xv source=console
+time="2025-06-02T23:49:53Z" level=info msg=2m7avg source=console
+time="2025-06-02T23:49:53Z" level=info msg=1hnx60 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1dyjupn source=console
+time="2025-06-02T23:49:53Z" level=info msg=66ot0 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1w3p3ii source=console
+time="2025-06-02T23:49:53Z" level=info msg=1gsw22s source=console
+time="2025-06-02T23:49:53Z" level=info msg=1avhu14 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1w235lw source=console
+time="2025-06-02T23:49:53Z" level=info msg=1aty8wb source=console
+time="2025-06-02T23:49:53Z" level=info msg=ef9nhd source=console
+time="2025-06-02T23:49:53Z" level=info msg=nxmgx9 source=console
+time="2025-06-02T23:49:53Z" level=info msg=rkky13 source=console
+time="2025-06-02T23:49:53Z" level=info msg=qz450p source=console
+time="2025-06-02T23:49:53Z" level=info msg=dxmxec source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ccihuu source=console
+time="2025-06-02T23:49:53Z" level=info msg=l31bu source=console
+time="2025-06-02T23:49:53Z" level=info msg=blfc5d source=console
+time="2025-06-02T23:49:53Z" level=info msg=igr4uy source=console
+time="2025-06-02T23:49:53Z" level=info msg=1gmag04 source=console
+time="2025-06-02T23:49:53Z" level=info msg=rulfpa source=console
+time="2025-06-02T23:49:53Z" level=info msg=1gxbri8 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1e7syem source=console
+time="2025-06-02T23:49:53Z" level=info msg=1kkyeef source=console
+time="2025-06-02T23:49:53Z" level=info msg=jenwyp source=console
+time="2025-06-02T23:49:53Z" level=info msg=10gi9xg source=console
+time="2025-06-02T23:49:53Z" level=info msg=12vsgac source=console
+time="2025-06-02T23:49:53Z" level=info msg=cm6guv source=console
+time="2025-06-02T23:49:53Z" level=info msg=1m4ble5 source=console
+time="2025-06-02T23:49:53Z" level=info msg=i8cxfl source=console
+time="2025-06-02T23:49:53Z" level=info msg=o63ifm source=console
+time="2025-06-02T23:49:53Z" level=info msg=mpusoh source=console
+time="2025-06-02T23:49:53Z" level=info msg=nf62yt source=console
+time="2025-06-02T23:49:53Z" level=info msg=afhv76 source=console
+time="2025-06-02T23:49:53Z" level=info msg=18oktkt source=console
+time="2025-06-02T23:49:53Z" level=info msg=1qp8spw source=console
+time="2025-06-02T23:49:53Z" level=info msg=1jpfrcf source=console
+time="2025-06-02T23:49:53Z" level=info msg=9dki2i source=console
+time="2025-06-02T23:49:53Z" level=info msg=heg1l3 source=console
+time="2025-06-02T23:49:53Z" level=info msg=a4f1kn source=console
+time="2025-06-02T23:49:53Z" level=info msg=1fusksr source=console
+time="2025-06-02T23:49:53Z" level=info msg=185wiu2 source=console
+time="2025-06-02T23:49:53Z" level=info msg=12tb2pl source=console
+time="2025-06-02T23:49:53Z" level=info msg=svsfh4 source=console
+time="2025-06-02T23:49:53Z" level=info msg=64r54i source=console
+time="2025-06-02T23:49:53Z" level=info msg=1bsa8al source=console
+time="2025-06-02T23:49:53Z" level=info msg=1jpo4nm source=console
+time="2025-06-02T23:49:53Z" level=info msg=mrpgz0 source=console
+time="2025-06-02T23:49:53Z" level=info msg=13xhx8h source=console
+time="2025-06-02T23:49:53Z" level=info msg=t1atvi source=console
+time="2025-06-02T23:49:53Z" level=info msg=1auorek source=console
+time="2025-06-02T23:49:53Z" level=info msg=at20hj source=console
+time="2025-06-02T23:49:53Z" level=info msg=t2l8ud source=console
+time="2025-06-02T23:49:53Z" level=info msg=ppiuqc source=console
+time="2025-06-02T23:49:53Z" level=info msg=1x2d23i source=console
+time="2025-06-02T23:49:53Z" level=info msg=1hzoc5c source=console
+time="2025-06-02T23:49:53Z" level=info msg=s4ey00 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ywmes4 source=console
+time="2025-06-02T23:49:53Z" level=info msg=w3s96f source=console
+time="2025-06-02T23:49:53Z" level=info msg=rqnwfw source=console
+time="2025-06-02T23:49:53Z" level=info msg=y0jpoq source=console
+time="2025-06-02T23:49:53Z" level=info msg=aiw1o7 source=console
+time="2025-06-02T23:49:53Z" level=info msg=12rful9 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ee2ngy source=console
+time="2025-06-02T23:49:53Z" level=info msg=hf0yik source=console
+time="2025-06-02T23:49:53Z" level=info msg=j69bq5 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1s5bcu6 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1pkc2bv source=console
+time="2025-06-02T23:49:53Z" level=info msg=1e9cq0f source=console
+time="2025-06-02T23:49:53Z" level=info msg=1w51m45 source=console
+time="2025-06-02T23:49:53Z" level=info msg=uod9bn source=console
+time="2025-06-02T23:49:53Z" level=info msg=1lmufst source=console
+time="2025-06-02T23:49:53Z" level=info msg=1hqi1yc source=console
+time="2025-06-02T23:49:53Z" level=info msg=3wl7p7 source=console
+time="2025-06-02T23:49:53Z" level=info msg=8cg1pq source=console
+time="2025-06-02T23:49:53Z" level=info msg=1r3h5tr source=console
+time="2025-06-02T23:49:53Z" level=info msg=1bdn6oo source=console
+time="2025-06-02T23:49:53Z" level=info msg=i1d4q4 source=console
+time="2025-06-02T23:49:53Z" level=info msg=15kq6em source=console
+time="2025-06-02T23:49:53Z" level=info msg=1a5khuv source=console
+time="2025-06-02T23:49:53Z" level=info msg=ogjhs9 source=console
+time="2025-06-02T23:49:53Z" level=info msg=vzmycz source=console
+time="2025-06-02T23:49:53Z" level=info msg=1qk4pal source=console
+time="2025-06-02T23:49:53Z" level=info msg=x9on9b source=console
+time="2025-06-02T23:49:53Z" level=info msg=m5x2tv source=console
+time="2025-06-02T23:49:53Z" level=info msg=jagqvc source=console
+time="2025-06-02T23:49:53Z" level=info msg=1cyq854 source=console
+time="2025-06-02T23:49:53Z" level=info msg=8ib1l5 source=console
+time="2025-06-02T23:49:53Z" level=info msg=15yl9c3 source=console
+time="2025-06-02T23:49:53Z" level=info msg=16kukqs source=console
+time="2025-06-02T23:49:53Z" level=info msg=vuh521 source=console
+time="2025-06-02T23:49:53Z" level=info msg=4odrvr source=console
+time="2025-06-02T23:49:53Z" level=info msg=1xia087 source=console
+time="2025-06-02T23:49:53Z" level=info msg=wj1bnm source=console
+time="2025-06-02T23:49:53Z" level=info msg=1hvjj7i source=console
+time="2025-06-02T23:49:53Z" level=info msg=1metvmh source=console
+time="2025-06-02T23:49:53Z" level=info msg=44f3vq source=console
+time="2025-06-02T23:49:53Z" level=info msg=775jc8 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1690sjw source=console
+time="2025-06-02T23:49:53Z" level=info msg=1r0btrk source=console
+time="2025-06-02T23:49:53Z" level=info msg=17zqmqd source=console
+time="2025-06-02T23:49:53Z" level=info msg=1oacnt2 source=console
+time="2025-06-02T23:49:53Z" level=info msg=ck6s5s source=console
+time="2025-06-02T23:49:53Z" level=info msg=h5gokg source=console
+time="2025-06-02T23:49:53Z" level=info msg=1xj6e57 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ur1qk7 source=console
+time="2025-06-02T23:49:53Z" level=info msg=mytn8v source=console
+time="2025-06-02T23:49:53Z" level=info msg=10fq2hc source=console
+time="2025-06-02T23:49:53Z" level=info msg=1tf3s8u source=console
+time="2025-06-02T23:49:53Z" level=info msg=1v5xv1c source=console
+time="2025-06-02T23:49:53Z" level=info msg=1yemcas source=console
+time="2025-06-02T23:49:53Z" level=info msg=1g5r3ty source=console
+time="2025-06-02T23:49:53Z" level=info msg=1v8ic1f source=console
+time="2025-06-02T23:49:53Z" level=info msg=ni8x1t source=console
+time="2025-06-02T23:49:53Z" level=info msg=5tkxxi source=console
+time="2025-06-02T23:49:53Z" level=info msg=3a8p14 source=console
+time="2025-06-02T23:49:53Z" level=info msg=17sq84w source=console
+time="2025-06-02T23:49:53Z" level=info msg=1j8ibjq source=console
+time="2025-06-02T23:49:53Z" level=info msg=ufbtjb source=console
+time="2025-06-02T23:49:53Z" level=info msg=5nutcu source=console
+time="2025-06-02T23:49:53Z" level=info msg=wrssvo source=console
+time="2025-06-02T23:49:53Z" level=info msg=ppwac1 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1cohxg1 source=console
+time="2025-06-02T23:49:53Z" level=info msg=o08wf5 source=console
+time="2025-06-02T23:49:53Z" level=info msg=szg1ek source=console
+time="2025-06-02T23:49:53Z" level=info msg=15j3dug source=console
+time="2025-06-02T23:49:53Z" level=info msg=jyvf4u source=console
+time="2025-06-02T23:49:53Z" level=info msg=bzt7nl source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ywdecj source=console
+time="2025-06-02T23:49:53Z" level=info msg=s3w9jl source=console
+time="2025-06-02T23:49:53Z" level=info msg=44sg1c source=console
+time="2025-06-02T23:49:53Z" level=info msg=mlloqz source=console
+time="2025-06-02T23:49:53Z" level=info msg=1itb3u8 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ykk2s source=console
+time="2025-06-02T23:49:53Z" level=info msg=ze0gyo source=console
+time="2025-06-02T23:49:53Z" level=info msg=1uztz3y source=console
+time="2025-06-02T23:49:53Z" level=info msg=vjy9xg source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ef0vdu source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ws5m4 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1omump1 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ppt84d source=console
+time="2025-06-02T23:49:53Z" level=info msg=1d983gy source=console
+time="2025-06-02T23:49:53Z" level=info msg=1u7ufrl source=console
+time="2025-06-02T23:49:53Z" level=info msg=710dvh source=console
+time="2025-06-02T23:49:53Z" level=info msg=u918nu source=console
+time="2025-06-02T23:49:53Z" level=info msg=4ggcjd source=console
+time="2025-06-02T23:49:53Z" level=info msg=waoz4j source=console
+time="2025-06-02T23:49:53Z" level=info msg=1me9iqo source=console
+time="2025-06-02T23:49:53Z" level=info msg=1vntrea source=console
+time="2025-06-02T23:49:53Z" level=info msg=ri1grn source=console
+time="2025-06-02T23:49:53Z" level=info msg=wp61q2 source=console
+time="2025-06-02T23:49:53Z" level=info msg=3zp91t source=console
+time="2025-06-02T23:49:53Z" level=info msg=1u01gr6 source=console
+time="2025-06-02T23:49:53Z" level=info msg=5lsyfw source=console
+time="2025-06-02T23:49:53Z" level=info msg=1lzo3g9 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1v6h8ay source=console
+time="2025-06-02T23:49:53Z" level=info msg=1da3sgj source=console
+time="2025-06-02T23:49:53Z" level=info msg=1djxtuo source=console
+time="2025-06-02T23:49:53Z" level=info msg=10nhqz source=console
+time="2025-06-02T23:49:53Z" level=info msg=14hz8x7 source=console
+time="2025-06-02T23:49:53Z" level=info msg=106drum source=console
+time="2025-06-02T23:49:53Z" level=info msg=12x1pff source=console
+time="2025-06-02T23:49:53Z" level=info msg=pczr4 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1p0uyc8 source=console
+time="2025-06-02T23:49:53Z" level=info msg=r58001 source=console
+time="2025-06-02T23:49:53Z" level=info msg=130kujb source=console
+time="2025-06-02T23:49:53Z" level=info msg=k827iu source=console
+time="2025-06-02T23:49:53Z" level=info msg=1wekw42 source=console
+time="2025-06-02T23:49:53Z" level=info msg=u4tt10 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1plzmhv source=console
+time="2025-06-02T23:49:53Z" level=info msg=1qyow9c source=console
+time="2025-06-02T23:49:53Z" level=info msg=1cyd142 source=console
+time="2025-06-02T23:49:53Z" level=info msg=16grhch source=console
+time="2025-06-02T23:49:53Z" level=info msg=rxg6ph source=console
+time="2025-06-02T23:49:53Z" level=info msg=bo1lup source=console
+time="2025-06-02T23:49:53Z" level=info msg=bxhlbn source=console
+time="2025-06-02T23:49:53Z" level=info msg=afpkq0 source=console
+time="2025-06-02T23:49:53Z" level=info msg=te07tv source=console
+time="2025-06-02T23:49:53Z" level=info msg=1tw28mp source=console
+time="2025-06-02T23:49:53Z" level=info msg=v534mu source=console
+time="2025-06-02T23:49:53Z" level=info msg=64sepq source=console
+time="2025-06-02T23:49:53Z" level=info msg=1kzh295 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1dg4k5m source=console
+time="2025-06-02T23:49:53Z" level=info msg=11fexbe source=console
+time="2025-06-02T23:49:53Z" level=info msg=1szs9j4 source=console
+time="2025-06-02T23:49:53Z" level=info msg=mx343j source=console
+time="2025-06-02T23:49:53Z" level=info msg=1m5vucq source=console
+time="2025-06-02T23:49:53Z" level=info msg=1jp3x3j source=console
+time="2025-06-02T23:49:53Z" level=info msg=11lhdst source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ft3yg2 source=console
+time="2025-06-02T23:49:53Z" level=info msg=rseffx source=console
+time="2025-06-02T23:49:53Z" level=info msg=1dbwej8 source=console
+time="2025-06-02T23:49:53Z" level=info msg=7vwjy6 source=console
+time="2025-06-02T23:49:53Z" level=info msg=mex88x source=console
+time="2025-06-02T23:49:53Z" level=info msg=fsem5h source=console
+time="2025-06-02T23:49:53Z" level=info msg=pw2zcq source=console
+time="2025-06-02T23:49:53Z" level=info msg=ovehov source=console
+time="2025-06-02T23:49:53Z" level=info msg=12olttu source=console
+time="2025-06-02T23:49:53Z" level=info msg=eppms3 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1dla9al source=console
+time="2025-06-02T23:49:53Z" level=info msg=3n1lee source=console
+time="2025-06-02T23:49:53Z" level=info msg=3gjh07 source=console
+time="2025-06-02T23:49:53Z" level=info msg=161vwmu source=console
+time="2025-06-02T23:49:53Z" level=info msg=1evjewp source=console
+time="2025-06-02T23:49:53Z" level=info msg=d6p8ge source=console
+time="2025-06-02T23:49:53Z" level=info msg=1jwdhwe source=console
+time="2025-06-02T23:49:53Z" level=info msg=p4kyq0 source=console
+time="2025-06-02T23:49:53Z" level=info msg=11kkup8 source=console
+time="2025-06-02T23:49:53Z" level=info msg=isi5nl source=console
+time="2025-06-02T23:49:53Z" level=info msg=130k32s source=console
+time="2025-06-02T23:49:53Z" level=info msg=2dq8wz source=console
+time="2025-06-02T23:49:53Z" level=info msg=ssncan source=console
+time="2025-06-02T23:49:53Z" level=info msg=qyctg9 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1pnbtt9 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1tbsih0 source=console
+time="2025-06-02T23:49:53Z" level=info msg=425y0s source=console
+time="2025-06-02T23:49:53Z" level=info msg=rec4ly source=console
+time="2025-06-02T23:49:53Z" level=info msg=1utyatg source=console
+time="2025-06-02T23:49:53Z" level=info msg=1fedkv9 source=console
+time="2025-06-02T23:49:53Z" level=info msg=ae8qxr source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ky8s2q source=console
+time="2025-06-02T23:49:53Z" level=info msg=qmqcz3 source=console
+time="2025-06-02T23:49:53Z" level=info msg=pr4mqs source=console
+time="2025-06-02T23:49:53Z" level=info msg=1r2fefo source=console
+time="2025-06-02T23:49:53Z" level=info msg=1mpyjr1 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1df1xhv source=console
+time="2025-06-02T23:49:53Z" level=info msg=10p8ydd source=console
+time="2025-06-02T23:49:53Z" level=info msg=mq7uvp source=console
+time="2025-06-02T23:49:53Z" level=info msg=du966c source=console
+time="2025-06-02T23:49:53Z" level=info msg=blv4a8 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1shr6j3 source=console
+time="2025-06-02T23:49:53Z" level=info msg=u55lah source=console
+time="2025-06-02T23:49:53Z" level=info msg=1tjjsex source=console
+time="2025-06-02T23:49:53Z" level=info msg=qt2czs source=console
+time="2025-06-02T23:49:53Z" level=info msg=d3jdlb source=console
+time="2025-06-02T23:49:53Z" level=info msg=dsktmy source=console
+time="2025-06-02T23:49:53Z" level=info msg=5853op source=console
+time="2025-06-02T23:49:53Z" level=info msg=bza2ck source=console
+time="2025-06-02T23:49:53Z" level=info msg=24jtee source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ds8yh7 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1134hmu source=console
+time="2025-06-02T23:49:53Z" level=info msg=dj1zxq source=console
+time="2025-06-02T23:49:53Z" level=info msg=45gjcz source=console
+time="2025-06-02T23:49:53Z" level=info msg=sc5ewg source=console
+time="2025-06-02T23:49:53Z" level=info msg=7g3014 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1mrpy9e source=console
+time="2025-06-02T23:49:53Z" level=info msg=wluhqh source=console
+time="2025-06-02T23:49:53Z" level=info msg=j7thww source=console
+time="2025-06-02T23:49:53Z" level=info msg=1gdqshw source=console
+time="2025-06-02T23:49:53Z" level=info msg=m4s5vd source=console
+time="2025-06-02T23:49:53Z" level=info msg=1rywqbg source=console
+time="2025-06-02T23:49:53Z" level=info msg=kl0gsn source=console
+time="2025-06-02T23:49:53Z" level=info msg=1u6tfcn source=console
+time="2025-06-02T23:49:53Z" level=info msg=13zfimp source=console
+time="2025-06-02T23:49:53Z" level=info msg=k51nlu source=console
+time="2025-06-02T23:49:53Z" level=info msg=swfqyy source=console
+time="2025-06-02T23:49:53Z" level=info msg=2hsmly source=console
+time="2025-06-02T23:49:53Z" level=info msg=1p53fjb source=console
+time="2025-06-02T23:49:53Z" level=info msg=1fij3q2 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1r8jihv source=console
+time="2025-06-02T23:49:53Z" level=info msg=ildvrp source=console
+time="2025-06-02T23:49:53Z" level=info msg=vkcyyf source=console
+time="2025-06-02T23:49:53Z" level=info msg=u8g5y7 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1yjnc1j source=console
+time="2025-06-02T23:49:53Z" level=info msg=1x5sc4h source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ub5287 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1tmdt6a source=console
+time="2025-06-02T23:49:53Z" level=info msg=jwcokc source=console
+time="2025-06-02T23:49:53Z" level=info msg=datrae source=console
+time="2025-06-02T23:49:53Z" level=info msg=19yx5wp source=console
+time="2025-06-02T23:49:53Z" level=info msg=1lfrcof source=console
+time="2025-06-02T23:49:53Z" level=info msg=1sdax29 source=console
+time="2025-06-02T23:49:53Z" level=info msg=pyrkp9 source=console
+time="2025-06-02T23:49:53Z" level=info msg=5g1j74 source=console
+time="2025-06-02T23:49:53Z" level=info msg=y4j7wk source=console
+time="2025-06-02T23:49:53Z" level=info msg=hayg8e source=console
+time="2025-06-02T23:49:53Z" level=info msg=6dgjkm source=console
+time="2025-06-02T23:49:53Z" level=info msg=k3ccxx source=console
+time="2025-06-02T23:49:53Z" level=info msg=6iij3y source=console
+time="2025-06-02T23:49:53Z" level=info msg=p1giks source=console
+time="2025-06-02T23:49:53Z" level=info msg=1hd7c8n source=console
+time="2025-06-02T23:49:53Z" level=info msg=1vxcchx source=console
+time="2025-06-02T23:49:53Z" level=info msg=1sck1f8 source=console
+time="2025-06-02T23:49:53Z" level=info msg=10sqxu0 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1qi9vkr source=console
+time="2025-06-02T23:49:53Z" level=info msg=1npsvjs source=console
+time="2025-06-02T23:49:53Z" level=info msg=d0o1il source=console
+time="2025-06-02T23:49:53Z" level=info msg=1tjz3f9 source=console
+time="2025-06-02T23:49:53Z" level=info msg=rnqwhu source=console
+time="2025-06-02T23:49:53Z" level=info msg=1g1rrhi source=console
+time="2025-06-02T23:49:53Z" level=info msg=sshkim source=console
+time="2025-06-02T23:49:53Z" level=info msg=yswpxf source=console
+time="2025-06-02T23:49:53Z" level=info msg=1yqy1tj source=console
+time="2025-06-02T23:49:53Z" level=info msg=os8wbq source=console
+time="2025-06-02T23:49:53Z" level=info msg=phwrp9 source=console
+time="2025-06-02T23:49:53Z" level=info msg=12moey2 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1qt3w33 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1qq0jmg source=console
+time="2025-06-02T23:49:53Z" level=info msg=1jjqryw source=console
+time="2025-06-02T23:49:53Z" level=info msg=k8foaj source=console
+time="2025-06-02T23:49:53Z" level=info msg=bmkjjn source=console
+time="2025-06-02T23:49:53Z" level=info msg=uufh3f source=console
+time="2025-06-02T23:49:53Z" level=info msg=ih6mzp source=console
+time="2025-06-02T23:49:53Z" level=info msg=1njoa3w source=console
+time="2025-06-02T23:49:53Z" level=info msg=fu945h source=console
+time="2025-06-02T23:49:53Z" level=info msg=1s2vl9b source=console
+time="2025-06-02T23:49:53Z" level=info msg=1kh41fs source=console
+time="2025-06-02T23:49:53Z" level=info msg=t97k7q source=console
+time="2025-06-02T23:49:53Z" level=info msg=yeziay source=console
+time="2025-06-02T23:49:53Z" level=info msg=rwglfr source=console
+time="2025-06-02T23:49:53Z" level=info msg=1bt3uzp source=console
+time="2025-06-02T23:49:53Z" level=info msg=n19p0u source=console
+time="2025-06-02T23:49:53Z" level=info msg=pwjlgy source=console
+time="2025-06-02T23:49:53Z" level=info msg=1v0ecu2 source=console
+time="2025-06-02T23:49:53Z" level=info msg=11h447g source=console
+time="2025-06-02T23:49:53Z" level=info msg=124ge82 source=console
+time="2025-06-02T23:49:53Z" level=info msg=19hydip source=console
+time="2025-06-02T23:49:53Z" level=info msg=15012ii source=console
+time="2025-06-02T23:49:53Z" level=info msg=1g0s7y3 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1xh31jt source=console
+time="2025-06-02T23:49:53Z" level=info msg=tr9vz9 source=console
+time="2025-06-02T23:49:53Z" level=info msg=s9sypi source=console
+time="2025-06-02T23:49:53Z" level=info msg=sn74hv source=console
+time="2025-06-02T23:49:53Z" level=info msg=mhnxck source=console
+time="2025-06-02T23:49:53Z" level=info msg=8p4eg8 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1w1ps67 source=console
+time="2025-06-02T23:49:53Z" level=info msg=125vpkp source=console
+time="2025-06-02T23:49:53Z" level=info msg=ef33uj source=console
+time="2025-06-02T23:49:53Z" level=info msg=bj1ys6 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ra1lli source=console
+time="2025-06-02T23:49:53Z" level=info msg=n4hmn4 source=console
+time="2025-06-02T23:49:53Z" level=info msg=4ulgfy source=console
+time="2025-06-02T23:49:53Z" level=info msg=hee82j source=console
+time="2025-06-02T23:49:53Z" level=info msg=3rnale source=console
+time="2025-06-02T23:49:53Z" level=info msg=14nchzz source=console
+time="2025-06-02T23:49:53Z" level=info msg=1e6f0qi source=console
+time="2025-06-02T23:49:53Z" level=info msg=1j22xpy source=console
+time="2025-06-02T23:49:53Z" level=info msg=2qwtk6 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1lez6ny source=console
+time="2025-06-02T23:49:53Z" level=info msg=311q8t source=console
+time="2025-06-02T23:49:53Z" level=info msg=bb2t5e source=console
+time="2025-06-02T23:49:53Z" level=info msg=yjobud source=console
+time="2025-06-02T23:49:53Z" level=info msg=sp04u3 source=console
+time="2025-06-02T23:49:53Z" level=info msg=107ytco source=console
+time="2025-06-02T23:49:53Z" level=info msg=15rvji source=console
+time="2025-06-02T23:49:53Z" level=info msg=1661lk9 source=console
+time="2025-06-02T23:49:53Z" level=info msg=jwyxi4 source=console
+time="2025-06-02T23:49:53Z" level=info msg=tkiyec source=console
+time="2025-06-02T23:49:53Z" level=info msg=16zzipd source=console
+time="2025-06-02T23:49:53Z" level=info msg=1z0a7vo source=console
+time="2025-06-02T23:49:53Z" level=info msg=9uefi5 source=console
+time="2025-06-02T23:49:53Z" level=info msg=gkubkb source=console
+time="2025-06-02T23:49:53Z" level=info msg=10j9bf4 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1aajma4 source=console
+time="2025-06-02T23:49:53Z" level=info msg=4dequp source=console
+time="2025-06-02T23:49:53Z" level=info msg=d7fb3r source=console
+time="2025-06-02T23:49:53Z" level=info msg=lrdj33 source=console
+time="2025-06-02T23:49:53Z" level=info msg=nu81tq source=console
+time="2025-06-02T23:49:53Z" level=info msg=9uwakx source=console
+time="2025-06-02T23:49:53Z" level=info msg=13oedvs source=console
+time="2025-06-02T23:49:53Z" level=info msg=14y5dfh source=console
+time="2025-06-02T23:49:53Z" level=info msg=18slehh source=console
+time="2025-06-02T23:49:53Z" level=info msg=anduet source=console
+time="2025-06-02T23:49:53Z" level=info msg=13mvibn source=console
+time="2025-06-02T23:49:53Z" level=info msg=qetoil source=console
+time="2025-06-02T23:49:53Z" level=info msg=aqla4u source=console
+time="2025-06-02T23:49:53Z" level=info msg=jtzn0e source=console
+time="2025-06-02T23:49:53Z" level=info msg=t2dlwc source=console
+time="2025-06-02T23:49:53Z" level=info msg=1fjvvfv source=console
+time="2025-06-02T23:49:53Z" level=info msg=l7e78c source=console
+time="2025-06-02T23:49:53Z" level=info msg=19gfcug source=console
+time="2025-06-02T23:49:53Z" level=info msg=1cthz2p source=console
+time="2025-06-02T23:49:53Z" level=info msg=p93twx source=console
+time="2025-06-02T23:49:53Z" level=info msg=9oa9cj source=console
+time="2025-06-02T23:49:53Z" level=info msg=vgkgmk source=console
+time="2025-06-02T23:49:53Z" level=info msg=1iya530 source=console
+time="2025-06-02T23:49:53Z" level=info msg=k2w1t6 source=console
+time="2025-06-02T23:49:53Z" level=info msg=15pqihu source=console
+time="2025-06-02T23:49:53Z" level=info msg=xm3mjq source=console
+time="2025-06-02T23:49:53Z" level=info msg=1q9h6h source=console
+time="2025-06-02T23:49:53Z" level=info msg=1dm9y4m source=console
+time="2025-06-02T23:49:53Z" level=info msg=1aayg9p source=console
+time="2025-06-02T23:49:53Z" level=info msg=1yq2geg source=console
+time="2025-06-02T23:49:53Z" level=info msg=jnhfpe source=console
+time="2025-06-02T23:49:53Z" level=info msg=94ezeh source=console
+time="2025-06-02T23:49:53Z" level=info msg=12rglgx source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ox1nmi source=console
+time="2025-06-02T23:49:53Z" level=info msg=6ehm87 source=console
+time="2025-06-02T23:49:53Z" level=info msg=13ttto0 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1blz145 source=console
+time="2025-06-02T23:49:53Z" level=info msg=93uez2 source=console
+time="2025-06-02T23:49:53Z" level=info msg=aw6sx4 source=console
+time="2025-06-02T23:49:53Z" level=info msg=s3soel source=console
+time="2025-06-02T23:49:53Z" level=info msg=h59t6o source=console
+time="2025-06-02T23:49:53Z" level=info msg=1mm87rs source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ed8rod source=console
+time="2025-06-02T23:49:53Z" level=info msg=1j4qa9a source=console
+time="2025-06-02T23:49:53Z" level=info msg=1cyak62 source=console
+time="2025-06-02T23:49:53Z" level=info msg=5q4ia2 source=console
+time="2025-06-02T23:49:53Z" level=info msg=kjwrrp source=console
+time="2025-06-02T23:49:53Z" level=info msg=4sihxj source=console
+time="2025-06-02T23:49:53Z" level=info msg=doi3et source=console
+time="2025-06-02T23:49:53Z" level=info msg=pm53px source=console
+time="2025-06-02T23:49:53Z" level=info msg=m0zhun source=console
+time="2025-06-02T23:49:53Z" level=info msg=1gfomm8 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1t1mpi6 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1t20ibm source=console
+time="2025-06-02T23:49:53Z" level=info msg=26h07o source=console
+time="2025-06-02T23:49:53Z" level=info msg=1wrshns source=console
+time="2025-06-02T23:49:53Z" level=info msg=1hz5mzn source=console
+time="2025-06-02T23:49:53Z" level=info msg=8kpq59 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1q0dxfk source=console
+time="2025-06-02T23:49:53Z" level=info msg=2ihkvp source=console
+time="2025-06-02T23:49:53Z" level=info msg=ryh5zd source=console
+time="2025-06-02T23:49:53Z" level=info msg=1efj7q1 source=console
+time="2025-06-02T23:49:53Z" level=info msg=11b1tyr source=console
+time="2025-06-02T23:49:53Z" level=info msg=oxsb4t source=console
+time="2025-06-02T23:49:53Z" level=info msg=v4aat5 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1t3y5xd source=console
+time="2025-06-02T23:49:53Z" level=info msg=ytj0qm source=console
+time="2025-06-02T23:49:53Z" level=info msg=1v4p8vq source=console
+time="2025-06-02T23:49:53Z" level=info msg=6yqhof source=console
+time="2025-06-02T23:49:53Z" level=info msg=r8r7ww source=console
+time="2025-06-02T23:49:53Z" level=info msg=k4omtj source=console
+time="2025-06-02T23:49:53Z" level=info msg=xv0w0t source=console
+time="2025-06-02T23:49:53Z" level=info msg=ylzi0q source=console
+time="2025-06-02T23:49:53Z" level=info msg=1njzo7t source=console
+time="2025-06-02T23:49:53Z" level=info msg=mu9wdh source=console
+time="2025-06-02T23:49:53Z" level=info msg=drm4b source=console
+time="2025-06-02T23:49:53Z" level=info msg=1kw3a1p source=console
+time="2025-06-02T23:49:53Z" level=info msg=1xejx37 source=console
+time="2025-06-02T23:49:53Z" level=info msg=3px508 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1e7ref0 source=console
+time="2025-06-02T23:49:53Z" level=info msg=6cn6bl source=console
+time="2025-06-02T23:49:53Z" level=info msg=1byyk6j source=console
+time="2025-06-02T23:49:53Z" level=info msg=1bk3wum source=console
+time="2025-06-02T23:49:53Z" level=info msg=1quib73 source=console
+time="2025-06-02T23:49:53Z" level=info msg=1qz5idx source=console
+time="2025-06-02T23:49:53Z" level=info msg=16vpznl source=console
+time="2025-06-02T23:49:53Z" level=info msg=l9ltc6 source=console
+time="2025-06-02T23:49:53Z" level=info msg=122irek source=console
+time="2025-06-02T23:49:53Z" level=info msg=pnmnfd source=console
+time="2025-06-02T23:49:53Z" level=info msg=hyzj9p source=console
+time="2025-06-02T23:49:53Z" level=info msg=7wuywv source=console
+time="2025-06-02T23:49:53Z" level=info msg=1iwg0u0 source=console
+time="2025-06-02T23:49:53Z" level=info msg=gyv8vv source=console
+time="2025-06-02T23:49:53Z" level=info msg=7w3ln2 source=console
+time="2025-06-02T23:49:53Z" level=info msg=18yhj63 source=console
+time="2025-06-02T23:49:53Z" level=info msg=4rir1e source=console
+time="2025-06-02T23:49:53Z" level=info msg=t474fd source=console
+time="2025-06-02T23:49:53Z" level=info msg=bc63qp source=console
+time="2025-06-02T23:49:53Z" level=info msg=1rkj4oj source=console
+time="2025-06-02T23:49:53Z" level=info msg=wfx15p source=console
+time="2025-06-02T23:49:53Z" level=info msg=n2xbnm source=console
+time="2025-06-02T23:49:53Z" level=info msg=1fr4dsy source=console
+time="2025-06-02T23:49:53Z" level=info msg=2lwbvo source=console
+time="2025-06-02T23:49:53Z" level=info msg=ipadxs source=console
+time="2025-06-02T23:49:53Z" level=info msg=4uwge1 source=console
+time="2025-06-02T23:49:53Z" level=info msg=oqex9h source=console
+time="2025-06-02T23:49:53Z" level=info msg=14s86wb source=console
+time="2025-06-02T23:49:53Z" level=info msg=pbuire source=console
+time="2025-06-02T23:49:53Z" level=info msg=1jvncc1 source=console
+time="2025-06-02T23:49:53Z" level=info msg=81zgtf source=console
+time="2025-06-02T23:49:53Z" level=info msg=1h1reg4 source=console
+time="2025-06-02T23:49:53Z" level=info msg=lecfgn source=console
+time="2025-06-02T23:49:53Z" level=info msg=tg4wgl source=console
+time="2025-06-02T23:49:53Z" level=info msg=15r4dyq source=console
+time="2025-06-02T23:49:53Z" level=info msg=pkvy3 source=console
+time="2025-06-02T23:49:53Z" level=info msg=17bpzul source=console
+time="2025-06-02T23:49:53Z" level=info msg=1ttl19x source=console
+time="2025-06-02T23:49:53Z" level=info msg=1bc09zz source=console
+time="2025-06-02T23:49:53Z" level=info msg=ussf7n source=console
+time="2025-06-02T23:49:53Z" level=info msg=kovz3l source=console
+time="2025-06-02T23:49:53Z" level=info msg=aqygjw source=console
+time="2025-06-02T23:49:53Z" level=info msg=19hx8ur source=console
+time="2025-06-02T23:49:53Z" level=info msg=s8q6hm source=console
+time="2025-06-02T23:49:53Z" level=info msg=15vx3yd source=console
+time="2025-06-02T23:49:53Z" level=info msg=zqtw4k source=console
 
 
   █ THRESHOLDS 
 
     http_req_duration
-    ✓ 'p(95)<3000' p(95)=0s
+    ✓ 'p(95)<3000' p(95)=264.6ms
 
     http_req_failed
-    ✗ 'rate<0.02' rate=100.00%
+    ✓ 'rate<0.02' rate=0.00%
 
 
   █ TOTAL RESULTS 
 
-    checks_total.......................: 500     3933.3036/s
-    checks_succeeded...................: 0.00%   0 out of 500
-    checks_failed......................: 100.00% 500 out of 500
+    checks_total.......................: 500     620.548177/s
+    checks_succeeded...................: 100.00% 500 out of 500
+    checks_failed......................: 0.00%   0 out of 500
 
-    ✗ status is >= 200 && < 300
-      ↳  0% — ✓ 0 / ✗ 500
+    ✓ status is >= 200 && < 300
 
     HTTP
-    http_req_duration......................: avg=0s      min=0s       med=0s      max=0s      p(90)=0s      p(95)=0s     
-    http_req_failed........................: 100.00% 500 out of 500
-    http_reqs..............................: 500     3933.3036/s
+    http_req_duration.......................................................: avg=95.53ms  min=1.93ms med=58.72ms max=492.57ms p(90)=243.09ms p(95)=264.6ms 
+      { expected_response:true }............................................: avg=95.53ms  min=1.93ms med=58.72ms max=492.57ms p(90)=243.09ms p(95)=264.6ms 
+    http_req_failed.........................................................: 0.00% 0 out of 500
+    http_reqs...............................................................: 500   620.548177/s
 
     EXECUTION
-    iteration_duration.....................: avg=21.39ms min=146.66µs med=19.94ms max=59.73ms p(90)=41.87ms p(95)=45.03ms
-    iterations.............................: 500     3933.3036/s
+    iteration_duration......................................................: avg=143.47ms min=2.72ms med=62.7ms  max=640.86ms p(90)=331.94ms p(95)=381.18ms
+    iterations..............................................................: 500   620.548177/s
+    vus.....................................................................: 100   min=100      max=100
+    vus_max.................................................................: 100   min=100      max=100
 
     NETWORK
-    data_received..........................: 0 B     0 B/s
-    data_sent..............................: 0 B     0 B/s
+    data_received...........................................................: 87 kB 108 kB/s
+    data_sent...............................................................: 84 kB 104 kB/s
 
 
 
 
-running (00m00.1s), 000/100 VUs, 500 complete and 0 interrupted iterations
-default ✓ [ 100% ] 100 VUs  00m00.1s/10m0s  500/500 shared iters
-time="2025-06-02T02:29:22Z" level=error msg="thresholds on metrics 'http_req_failed' have been crossed"
+running (00m00.8s), 000/100 VUs, 500 complete and 0 interrupted iterations
+default ✓ [ 100% ] 100 VUs  00m00.8s/10m0s  500/500 shared iters

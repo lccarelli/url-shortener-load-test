@@ -1,0 +1,12 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+time="2025-06-03T00:04:00Z" level=warning msg="There were unknown fields in the options exported in the script" error="json: unknown field \"http\""
+
+Init      [   0% ]
+default   [   0% ]
+time="2025-06-03T00:04:00Z" level=error msg="invalid output type 'prometheus', available types are: cloud, csv, experimental-opentelemetry, experimental-prometheus-rw, influxdb, json, statsd, web-dashboard"
